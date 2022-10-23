@@ -1,5 +1,5 @@
 const app=require("./app")
-
+//
 //Setear el archivo de configuración
 const dotenv=require("dotenv");
 dotenv.config({path: 'back/config/config.env'})

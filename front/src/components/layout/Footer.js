@@ -8,7 +8,6 @@ export const Footer = () => {
                 Alfa5 - 2022 - Mision TIC - Todos los derechos reservados
             </p>
         </footer>
-        
     </Fragment>
   )
 }

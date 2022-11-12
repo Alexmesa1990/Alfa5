@@ -38,8 +38,8 @@ const productosSchema=mongoose.Schema({
         required:[true,"Por favor seleccione la categoria del producto."],
         enum:{
             values:[
-                "bicicleta montaña",
-                "bicicorss",
+                "bicicleta mont",
+                "bicicross",
                 "infantil",
                 "bicicleta pista",
             ]
